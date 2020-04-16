@@ -1,0 +1,23 @@
+{
+  "name": "monolithic",
+  "version": "1.0.0",
+  "description": "monolithic app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ortegamiguel/monolithic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ortegamiguel/monolithic/issues"
+  },
+  "homepage": "https://github.com/ortegamiguel/monolithic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
